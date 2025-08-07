@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/bluto-world/', // 👈 Add this line
+  base: '/world-of-bluto/', // 👈 Add this line
 })
